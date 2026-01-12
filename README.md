@@ -55,7 +55,7 @@ Key principles followed:
 
 | Search             | Podcast Detail         | Subscribed             | Player                 |
 |--------------------|------------------------|------------------------|------------------------|
-| ![search](screenshots/search.png)          | ![detail](screenshots/detail.png)              | ![episodes](screenshots/PersistedPodcast.png)            | ![player](screenshots/player.png)              |
+| ![search](Screenshots/search.png)          | ![detail](Screenshots/detail.png)              | ![episodes](Screenshots/PersistedPodcast.png)            | ![player](Screenshots/player.png)              |
 
 ## 🚀 Getting Started
 
