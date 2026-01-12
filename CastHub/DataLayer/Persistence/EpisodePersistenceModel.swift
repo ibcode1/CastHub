@@ -14,7 +14,6 @@ import SwiftData
 @Model
 final class EpisodePersistenceModel {
     @Attribute(.unique)
-    //var id: String
     var title: String?
     var pubDate: Date?
     var content: String?
@@ -23,12 +22,11 @@ final class EpisodePersistenceModel {
     var audioUrl: String?
     var type: String?
 
-    // a relationship to podcast
+    // relationship to podcast
     @Relationship(deleteRule: .cascade, inverse: \PodcastPersistenceModel.episodes)
     var podcast: PodcastPersistenceModel?
     
     init(
-       // id: String,
         title: String,
         pubDate: Date,
         content: String,
@@ -36,7 +34,6 @@ final class EpisodePersistenceModel {
         itunesDuration: TimeInterval,
         audioUrl: String,
         type: String) {
-       // self.id = id
         self.title = title
         self.pubDate = pubDate
         self.content = content

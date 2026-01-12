@@ -65,6 +65,11 @@
 /* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		A21297362F1553670061D250 /* Screenshots */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Screenshots;
+			sourceTree = "<group>";
+		};
 		A22215C32EE8849500EFFBEA /* CastHub */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
@@ -121,6 +126,7 @@
 		A22215B82EE8849500EFFBEA = {
 			isa = PBXGroup;
 			children = (
+				A21297362F1553670061D250 /* Screenshots */,
 				A22215C32EE8849500EFFBEA /* CastHub */,
 				A22215D12EE8849800EFFBEA /* CastHubTests */,
 				A22215DB2EE8849800EFFBEA /* CastHubUITests */,
@@ -154,6 +160,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				A21297362F1553670061D250 /* Screenshots */,
 				A22215C32EE8849500EFFBEA /* CastHub */,
 			);
 			name = CastHub;

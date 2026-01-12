@@ -51,10 +51,8 @@ final class DataController {
                 id: UUID(),
                 title: "",
                 feedUrl: "podcast_\(i)",
-                //collectionCensoredName: "Sample track \(i)",
                 artworkUrl: "sample image \(i)",
                 saved: false
-                //releasedDate: Date()
             )
             context.insert(podcast)
             
@@ -62,7 +60,6 @@ final class DataController {
                 let timestampMilliseconds = Date().timeIntervalSince1970 * 1000 - Double(j * 86400000)
                 let timestamp = Date(timeIntervalSince1970: timestampMilliseconds/1000)
                 let episode = EpisodePersistenceModel(
-                    //id: "episode_\(i)_\(j)",
                     title: "Sample Episode \(j)",
                     pubDate: timestamp,
                     content: "Description for episode \(j)",
