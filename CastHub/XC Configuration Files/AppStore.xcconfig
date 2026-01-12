@@ -1,0 +1,14 @@
+//
+//  AppStore.xcconfig
+//  CastHub
+//
+//  Created by Ibrahim fuseini on 13/12/2025.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+PH_APP_NAME = CastHub
+
+PH_BASE_API_HOST = itunes.apple.com
+
