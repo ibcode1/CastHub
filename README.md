@@ -41,7 +41,7 @@ Key principles followed:
 |-----------------------|-------------------------------------|--------------------------------------------|
 | UI                    | SwiftUI                             | Declarative UI                             |
 | Architecture          | MVVM + Clean Architecture           | Maintainable & testable structure          |
-| Persistence           | SwiftData                           | Subscriptions, download state, progress    |
+| Persistence           | SwiftData                           | Subscriptions                              |
 | Networking            | IBToolkit (custom)                  | Type-safe API client, interceptors, retry  |
 | RSS Parsing           | FeedKit                             | Reliable podcast feed parsing              |
 | Search                | iTunes Search API                   | Podcast discovery                          |
