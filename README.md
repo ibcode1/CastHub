@@ -1,4 +1,4 @@
-# EchoCast – Modern Podcast Player for iOS
+# CastHub – Modern Podcast Player for iOS
 
 [![iOS 17+](https://img.shields.io/badge/iOS-17%2B-blue.svg)](https://developer.apple.com/ios/)
 [![Swift 6](https://img.shields.io/badge/Swift-6-orange.svg)](https://swift.org)
