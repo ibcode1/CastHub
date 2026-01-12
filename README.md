@@ -51,11 +51,11 @@ Key principles followed:
 
 ## 📱 Screenshots
 
-*(Add your screenshots here later)*
+*screenshots*
 
-| Search             | Podcast Detail         | Episodes List          | Player                 |
+| Search             | Podcast Detail         | Subscribed             | Player                 |
 |--------------------|------------------------|------------------------|------------------------|
-| ![search]          | ![detail]              | ![episodes]            | ![player]              |
+| ![search](screenshots/search.png)          | ![detail](screenshots/detail.png)              | ![episodes](screenshots/PersistedPodcast.png)            | ![player](screenshots/player.png)              |
 
 ## 🚀 Getting Started
 
