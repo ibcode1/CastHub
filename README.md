@@ -5,7 +5,7 @@
 [![Xcode 16+](https://img.shields.io/badge/Xcode-16+-purple.svg)](https://developer.apple.com/xcode/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A clean, modern, offline-first podcast client built with **SwiftUI + MVVM Clean Architecture** in **Swift 6**.
+A clean, modern, podcast client built with **SwiftUI + MVVM Clean Architecture** in **Swift 6**.
 
 Leverages:
 - **iTunes Search API** for discovery
